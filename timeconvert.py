@@ -5,7 +5,7 @@ import math
 #setup
 #dvrscan filename
 print("Input DVR scan filename with .txt extension: ")
-txt = "dvrtimeline.txt" #input()
+txt = input()
 #created file name
 edl = "event.edl"
 #different fps
