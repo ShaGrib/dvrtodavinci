@@ -1,0 +1,1 @@
+put timeconvert.py in same folder you run dvrscan from, or more precisely where you output the files from dvr scan to. Open your command prompt/terminal and run the timeconvert.py file. will update with more instructions as more is built.
